@@ -61,6 +61,8 @@ value = 18.63248
 ...
 ```
 
+Try covering the LDR with a hand or putting more light on it. See how the values change.
+
 ## What it looks like
 
 <img src="/images/device.png" alt="drawing" width="400"/>
