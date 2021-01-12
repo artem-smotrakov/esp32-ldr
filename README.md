@@ -2,6 +2,8 @@
 
 This is a demo project that shows how to read a light dependent resistor (LDR) on ESP32 with MicroPython.
 
+Check out [this blog](https://blog.gypsyengineer.com/en/diy-electronics/reading-photoresistor-on-esp32-with-micropython.html) for details.
+
 ## Components
 
 1.  ESP32 development board
